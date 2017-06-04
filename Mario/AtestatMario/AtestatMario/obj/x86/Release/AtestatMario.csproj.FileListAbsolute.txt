@@ -1,7 +1,0 @@
-C:\Users\Ionut\Desktop\AtestatMario\AtestatMario\bin\Release\AtestatMario.exe
-C:\Users\Ionut\Desktop\AtestatMario\AtestatMario\bin\Release\AtestatMario.pdb
-C:\Users\Ionut\Desktop\AtestatMario\AtestatMario\obj\x86\Release\WindowsFormsApplication1.Form1.resources
-C:\Users\Ionut\Desktop\AtestatMario\AtestatMario\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Ionut\Desktop\AtestatMario\AtestatMario\obj\x86\Release\AtestatMario.csproj.GenerateResource.Cache
-C:\Users\Ionut\Desktop\AtestatMario\AtestatMario\obj\x86\Release\AtestatMario.exe
-C:\Users\Ionut\Desktop\AtestatMario\AtestatMario\obj\x86\Release\AtestatMario.pdb
