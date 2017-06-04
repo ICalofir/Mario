@@ -634,22 +634,22 @@ namespace WindowsFormsApplication1
                     {
                         if (nowC == "right")
                         {
-                            mario.Image = Image.FromFile("stand_r.png");
+                            mario.Image = Properties.Resources.stand_r;
                         }
                         else if (nowC == "left")
                         {
-                            mario.Image = Image.FromFile("stand_l.png");
+                            mario.Image = Properties.Resources.stand_l;
                         }
                     }
                     else
                     {
                         if (nowC == "right")
                         {
-                            mario.Image = Image.FromFile("fugit_r.gif");
+                            mario.Image = Properties.Resources.fugit_r;
                         }
                         else if (nowC == "left")
                         {
-                            mario.Image = Image.FromFile("fugit_l.gif");
+                            mario.Image = Properties.Resources.fugit_l;
                         }
                     }
                 }
@@ -665,22 +665,22 @@ namespace WindowsFormsApplication1
                     {
                         if (nowC == "right")
                         {
-                            mario.Image = Image.FromFile("stand_r.png");
+                            mario.Image = Properties.Resources.stand_r;
                         }
                         else if (nowC == "left")
                         {
-                            mario.Image = Image.FromFile("stand_l.png");
+                            mario.Image = Properties.Resources.stand_l;
                         }
                     }
                     else
                     {
                         if (nowC == "right")
                         {
-                            mario.Image = Image.FromFile("fugit_r.gif");
+                            mario.Image = Properties.Resources.fugit_r;
                         }
                         else if (nowC == "left")
                         {
-                            mario.Image = Image.FromFile("fugit_l.gif");
+                            mario.Image = Properties.Resources.fugit_l;
                         }
                     }
                 }
@@ -1353,13 +1353,13 @@ namespace WindowsFormsApplication1
             {
                 right = true;
                 nowC = "right";
-                mario.Image = Image.FromFile("fugit_r.gif");
+                mario.Image = Properties.Resources.fugit_r;
             }
             if (e.KeyCode == Keys.Left && left != true)
             {
                 left = true;
                 nowC = "left";
-                mario.Image = Image.FromFile("fugit_l.gif");
+                mario.Image = Properties.Resources.fugit_l;
             }
             if (e.KeyCode == Keys.R)
             {
@@ -1381,11 +1381,11 @@ namespace WindowsFormsApplication1
                     Force = G;
                     if (nowC == "right")
                     {
-                        mario.Image = Image.FromFile("jump_r.png");
+                        mario.Image = Properties.Resources.jump_r;
                     }
                     else if (nowC == "left")
                     {
-                        mario.Image = Image.FromFile("jump_l.png");
+                        mario.Image = Properties.Resources.jump_l;
                     }
                 }
             }
@@ -1393,11 +1393,11 @@ namespace WindowsFormsApplication1
             {
                 if (nowC == "right")
                 {
-                    mario.Image = Image.FromFile("jump_r.png");
+                    mario.Image = Properties.Resources.jump_r;
                 }
                 else if (nowC == "left")
                 {
-                    mario.Image = Image.FromFile("jump_l.png");
+                    mario.Image = Properties.Resources.jump_l;
                 }
             }
         }
@@ -1409,7 +1409,7 @@ namespace WindowsFormsApplication1
                 right = false;
                 if (left == false)
                 {
-                    mario.Image = Image.FromFile("stand_r.png");
+                    mario.Image = Properties.Resources.stand_r;
                 }
             }
             if (e.KeyCode == Keys.Left)
@@ -1417,7 +1417,7 @@ namespace WindowsFormsApplication1
                 left = false;
                 if (right == false)
                 {
-                    mario.Image = Image.FromFile("stand_l.png");
+                    mario.Image = Properties.Resources.stand_l;
                 }
             }
         }

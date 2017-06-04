@@ -114,106 +114,47 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\stand_r.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\zid.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\intrebare.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\patrat.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\cer.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\teren.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\ciuperca.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\patratgol.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\banut.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\block.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\monstru.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\floare.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\teren2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\background.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\baricada.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bariblock.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bariblock1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bara.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\tulpina.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\palmier.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\terenu.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bl.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\bila.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\final.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\pod.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\printesa.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\finaal.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\text.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\butonfinal.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\flag.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\Flag1RightGreen2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\start1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\start2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\selectare.png" />
+    <Content Include="Resources\background.png" />
+    <Content Include="Resources\banut.gif" />
+    <Content Include="Resources\bara.png" />
+    <Content Include="Resources\bariblock.png" />
+    <Content Include="Resources\bariblock1.png" />
+    <Content Include="Resources\baricada.png" />
+    <Content Include="Resources\bila.png" />
+    <Content Include="Resources\bl.png" />
+    <Content Include="Resources\block.png" />
+    <Content Include="Resources\buton.png" />
+    <Content Include="Resources\butonfinal.png" />
+    <Content Include="Resources\cer.png" />
+    <Content Include="Resources\ciuperca.png" />
+    <Content Include="Resources\finaal.png" />
+    <Content Include="Resources\final.png" />
+    <Content Include="Resources\flag.png" />
+    <Content Include="Resources\Flag1RightGreen2.png" />
+    <Content Include="Resources\floare.png" />
+    <Content Include="Resources\fugit_l.gif" />
+    <Content Include="Resources\fugit_r.gif" />
+    <Content Include="Resources\intrebare.gif" />
+    <Content Include="Resources\jump_l.png" />
+    <Content Include="Resources\jump_r.png" />
+    <Content Include="Resources\monstru.gif" />
+    <Content Include="Resources\palmier.png" />
+    <Content Include="Resources\patrat.png" />
+    <Content Include="Resources\patratgol.png" />
+    <Content Include="Resources\patratgoll2.png" />
+    <Content Include="Resources\pod.png" />
+    <Content Include="Resources\printesa.png" />
+    <Content Include="Resources\selectare.png" />
+    <Content Include="Resources\stand_l.png" />
+    <Content Include="Resources\stand_r.png" />
+    <Content Include="Resources\start1.png" />
+    <Content Include="Resources\start2.png" />
+    <Content Include="Resources\teren.png" />
+    <Content Include="Resources\teren2.png" />
+    <Content Include="Resources\terenu.png" />
+    <Content Include="Resources\text.png" />
+    <Content Include="Resources\tulpina.png" />
+    <Content Include="Resources\zid.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
